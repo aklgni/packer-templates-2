@@ -9,6 +9,8 @@
             "scripts/base.sh",
             "scripts/vagrant.sh",
             "scripts/virtualbox.sh",
+            "scripts/puppet-node_first-run.sh",
+            "scripts/puppet-master_first-run.sh",
             "scripts/cleanup.sh"
           ]
         },
@@ -17,6 +19,8 @@
             "scripts/base.sh",
             "scripts/vagrant.sh",
             "scripts/vmware.sh",
+            "scripts/puppet-node_first-run.sh",
+            "scripts/puppet-master_first-run.sh",
             "scripts/cleanup.sh"
           ]
         }
